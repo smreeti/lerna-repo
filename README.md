@@ -1,3 +1,7 @@
+
+An easy to digest, working Monorepo Architecture with Lerna, Yarn Workspace and React Workspaces
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
