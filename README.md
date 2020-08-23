@@ -1,5 +1,13 @@
 
 An easy to digest, working Monorepo Architecture with Lerna, Yarn Workspace and React Workspaces
+For detailed overview :
+
+https://medium.com/@bijayshrestha/easy-step-by-step-guide-to-monorepo-architecture-using-lerna-yarn-workspace-and-react-workspace-5255d3e9447
+
+
+
+
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
