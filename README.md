@@ -1,5 +1,6 @@
 
-An easy to digest, working Monorepo Architecture with Lerna, Yarn Workspace and React Workspaces
+An easy to digest, working Monorepo Architecture with Lerna, Yarn Workspace and React Workspaces.
+
 For detailed overview :
 
 https://medium.com/@bijayshrestha/easy-step-by-step-guide-to-monorepo-architecture-using-lerna-yarn-workspace-and-react-workspace-5255d3e9447
